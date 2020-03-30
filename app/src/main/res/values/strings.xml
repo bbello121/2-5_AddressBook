@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Your Contacts App - Address Book</string>
+    <string name="txtTitle">Address Book</string>
+    <string name="txtCJohnson">Calvin Johnson</string>
+    <string name="txtKJohnson">Kerryon Johnson</string>
+    <string name="descCJohnson">Calvin Johnson Image</string>
+    <string name="descKJohnson">Kerryon Johnson Image</string>
+    <string name="txtCJAddress">1522 W. Maple Avenue, Troy, MI 48084</string>
+    <string name="txtKJAddress">777 Pleasant St, Birmingham, MI 48009</string>
+    <string name="txtCJPhone">(248) 541-5482</string>
+    <string name="txtKJPhone">(248) 225-4183</string>
+    <string name="btnCJohnson">View Calvin\'s Contact</string>
+    <string name="btnKJohnson">View Kerryon\'s Contact</string>
+    <string name="btnBack">Back</string>
+</resources>
